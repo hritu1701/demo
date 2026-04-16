@@ -4,9 +4,8 @@ This project implements the requested user listing app using native Apple framew
 
 ## Note on UI Framework
 
-The original requirement mentioned `ViewController` (typically UIKit), but this implementation uses **SwiftUI** (as requested) with native components (`NavigationStack`, `List`, `NavigationLink`, `.searchable`).
+The original requirement mentioned `ViewController` (typically UIKit), but this implementation uses **SwiftUI**  with native components (`NavigationStack`, `List`, `NavigationLink`, `.searchable`).
 
-- No custom UI framework is used.
 - UIKit was intentionally replaced with SwiftUI.
 
 ## API Integration + Caching
